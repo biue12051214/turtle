@@ -2,6 +2,7 @@ from turtle import *
 # from PIL import Image
 
 
+tracer(False)
 speed(0)
 """画图速度，0最快，1最慢，10较快"""
 shape("turtle")

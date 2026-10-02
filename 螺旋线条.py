@@ -3,7 +3,7 @@ from time import *
 # from PIL import Image
 
 
-Alice = "D:\\python\\pythonProject2\\小海龟Turtle\\Alice.gif"
+Alice = "Alice.gif"
 register_shape(Alice)
 shape(Alice)
 """将画笔替换为图片Alice"""
